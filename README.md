@@ -1,2 +1,2 @@
 # carusel
-https://hojya.github.io/carusel/
+https://hojya.github.io/carusel-two/
